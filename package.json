@@ -1,0 +1,21 @@
+{
+  "name": "xrp-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "get-port": "^3.2.0",
+    "ilp-connector": "^21.5.3",
+    "ilp-plugin-btp": "^1.1.14",
+    "ilp-plugin-mini-accounts": "^3.4.9",
+    "ilp-plugin-xrp-asym-client": "^1.5.2",
+    "ilp-plugin-xrp-asym-server": "^1.4.7",
+    "ilp-protocol-stream": "^1.4.0",
+    "ripple-lib": "^1.0.0-beta.2"
+  }
+}
